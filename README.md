@@ -1,2 +1,2 @@
 # Akshay-Joshi-Blog
-## Live link :
+## Live link : https://aj-blog-sample.netlify.app/
